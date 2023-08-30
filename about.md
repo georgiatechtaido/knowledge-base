@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Georgia Tech Taido is Georgia Tech's longest running Group Fitness class (25+ years) which teaches the Japanese martial art of [Taido](https://en.wikipedia.org/wiki/Taid%C5%8D), a style of karate developed for the 21st century by Dr. Seiken Shukumine.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Founded by Bryan Sparks in 1996, we are a group of hard-working, fun-loving people who enjoy training hard and partying harder.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+We maintain close ties to the [US Taido Association](https://www.taidokarate.com/) headquarters (or *honbu* in Japanese) and regularly participate in events such as Kangeiko, Summer Camp, National Tournament, etc.

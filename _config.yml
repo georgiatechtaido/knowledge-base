@@ -28,7 +28,7 @@ instagram_handle: georgiatechtaido
 facebook_handle: TechTaido
 
 # Build settings
-theme: minima
+theme: minimal
 plugins:
   - jekyll-feed
 
